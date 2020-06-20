@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #BFF1E4;
+}
+
+.head {
+  text-align: center;
+  font-size: 35px;
+  background-color: #3FB99C;
+  padding: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top:20px;
+}
+
+.cuerpo {
+  padding: 10px;
+  background-color: #9BDACB;
+  min-height: 300px;
+}
+
+.clima{
+  background-color: #EBFAF6;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 15px 5px 5px 5px;
+}
+
+.titClima{
+  margin:5px;
+  text-align: center;
+}
